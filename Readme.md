@@ -1,11 +1,11 @@
-# 🎬 Netflix Data Analysis
+ # Netflix Data Analysis
 
-## 📌 Overview
+##  Overview
 This project analyzes Netflix's content dataset using Python, Pandas, Matplotlib, and Seaborn. The goal is to discover insights about movies, TV shows, content growth, countries, genres, and ratings available on Netflix.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -18,7 +18,7 @@ This project analyzes Netflix's content dataset using Python, Pandas, Matplotlib
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -29,7 +29,7 @@ This project analyzes Netflix's content dataset using Python, Pandas, Matplotlib
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 Dataset used:
 - Netflix Titles Dataset (Kaggle)
@@ -39,7 +39,7 @@ File:
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 ### 1. Content Type Distribution
 Comparison between Movies and TV Shows available on Netflix.
@@ -61,7 +61,7 @@ Analysis of content ratings such as TV-MA, TV-14, PG-13, etc.
 
 ---
 
-## 📈 Sample Insights
+##  Sample Insights
 
 - Movies significantly outnumber TV Shows on Netflix.
 - The United States contributes the highest amount of content.
@@ -71,7 +71,7 @@ Analysis of content ratings such as TV-MA, TV-14, PG-13, etc.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 git clone https://github.com/Ankeshkrats/Netflix-Data-Analysis.git
@@ -91,7 +91,7 @@ notebook/netflix_analysis.ipynb
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ankesh Kumar**
 
